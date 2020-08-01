@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "order.payment",
+      "type": "com.example.springcloud.config.OrderConfigProperties",
+      "sourceType": "com.example.springcloud.config.OrderConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "order.payment.prefixurl",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springcloud.config.OrderConfigProperties"
+    }
+  ],
+  "hints": []
+}
